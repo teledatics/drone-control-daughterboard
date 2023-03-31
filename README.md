@@ -17,14 +17,14 @@ control add-on board is an all-in-one embedded drone and rover control system.
 
 ## Features
 
-m.2 connector for NXP IW612 Wi-Fi 6E/Bluetooth & BLE/Zigbee 802.15.4 board
-Gigabit Ethernet port
-ST Micro ISM330 IMU (gyroscope/accelerometer)
-ST Micro IIS2MD magnetometer/compass
-Bosch BMP581 pressure sensor
-Connector for Raspberry Pi HD camera
-GPS & Telemetry connectors for NXP drone & rover kits
-PWM control for up to 8 external motors
+* m.2 connector for NXP IW612 Wi-Fi 6E/Bluetooth & BLE/Zigbee 802.15.4 board
+* Gigabit Ethernet port
+* ST Micro ISM330 IMU (gyroscope/accelerometer)
+* ST Micro IIS2MD magnetometer/compass
+* Bosch BMP581 pressure sensor
+* Connector for Raspberry Pi HD camera
+* GPS & Telemetry connectors for NXP drone & rover kits
+* PWM control for up to 8 external motors
 
 
 ## Work In Progress
@@ -34,4 +34,6 @@ PX4 Autopilot to the i.MX8M Mini on-board embedded ARM m4 core
 
 Please see out Yocto github to build a Linux OS for the kimχ micro with drone-control 
 daughterboard
+
+[Drone Control Yocto](https://github.com/teledatics/drone-control-yocto)
 
