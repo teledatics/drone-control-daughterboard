@@ -50,11 +50,12 @@ The Drone Control components for a complete system.
 * drone control add-on board
 * NXP IW612 Wi-Fi/BT/802.15.4 m.2 card
 * Teledatics 802.11ah HaLow long range mini-PCIe Wi-Fi card
+* Raspberry Pi v2 camera
 
 ![drone control components](https://teledatics.com/drone-control/images/drone-control-complete.jpg)
 
 ## Assembled Ready To Fly
 
-32mm x 65mm x 15mm assembled drone control kit ready to mount on an NXP drone or rover kit
+32mm x 65mm x 15mm assembled drone control kit ready to mount on an NXP drone or rover kit.
 
 ![drone control components](https://teledatics.com/drone-control/images/drone-control-assembled.jpg)
