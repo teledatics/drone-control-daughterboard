@@ -19,14 +19,14 @@ versitility for many different applications.
 
 ## Features
 
-* m.2 connector for NXP IW612 Wi-Fi 6E/Bluetooth & BLE/Zigbee 802.15.4 board
+* m.2 connector for [NXP IW612](https://www.nxp.com/products/wireless/wi-fi-plus-bluetooth-plus-802-15-4/2-4-5-ghz-dual-band-1x1-wi-fi-6-802-11ax-plus-bluetooth-5-2-plus-802-15-4-tri-radio-solution:IW612) Wi-Fi 6E/Bluetooth & BLE/Zigbee 802.15.4 board
 * Gigabit Ethernet port
-* ST Micro ISM330 IMU (gyroscope/accelerometer)
-* ST Micro IIS2MD magnetometer/compass
-* Bosch BMP581 pressure sensor
-* Connector for Raspberry Pi HD camera
+* ST Micro [ISM330DHCX](https://www.st.com/en/mems-and-sensors/ism330dhcx.html) IMU gyroscope/accelerometer
+* ST Micro [IIS2MDC](https://www.st.com/en/mems-and-sensors/iis2mdc.html) magnetometer/compass
+* Bosch [BMP581](https://www.bosch-sensortec.com/products/environmental-sensors/pressure-sensors/bmp581/) pressure sensor for altitude
+* 15-pin Connector for Raspberry Pi v1.3 HD camera
 * GPS & Telemetry connectors for NXP drone & rover kits
-* PWM control for up to 8 external motors
+* PWM control for up to 8 external motors w/ NXP rover & drone kit compatible connector
 
 
 ## Work In Progress
