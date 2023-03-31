@@ -27,7 +27,7 @@ versitility for many different applications.
 * ST Micro [ISM330DHCX](https://www.st.com/en/mems-and-sensors/ism330dhcx.html) IMU gyroscope/accelerometer
 * ST Micro [IIS2MDC](https://www.st.com/en/mems-and-sensors/iis2mdc.html) magnetometer/compass
 * Bosch [BMP581](https://www.bosch-sensortec.com/products/environmental-sensors/pressure-sensors/bmp581/) pressure sensor for altitude
-* 15-pin Connector for Raspberry Pi v1.3 HD camera
+* 15-pin Connector for Raspberry Pi v2 HD camera
 * GPS & Telemetry connectors for NXP drone & rover kits
 * PWM control for up to 8 external motors w/ NXP rover & drone kit compatible connector
 
@@ -41,3 +41,20 @@ Please see our Drone Control Yocto github repository to build a Linux OS for the
 micro with drone-control daughterboard
 
 [Drone Control Yocto](https://github.com/teledatics/drone-control-yocto)
+
+## Drone Control Components
+
+The Drone Control components for a complete system.
+
+* kimχ micro i.MX8M Mini SBC
+* drone control add-on board
+* NXP IW612 Wi-Fi/BT/802.15.4 m.2 card
+* Teledatics 802.11ah HaLow long range mini-PCIe Wi-Fi card
+
+![drone control components](https://teledatics.com/drone-control/images/drone-control-complete.jpg)
+
+## Assembled Ready To Fly
+
+32mm x 65mm x 15mm assembled drone control kit ready to mount on an NXP drone or rover kit
+
+![drone control components](https://teledatics.com/drone-control/images/drone-control-assembled.jpg)
