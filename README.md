@@ -4,6 +4,9 @@ This is a hardware add-on 'lid' for the kimχ micro that adds drone control hard
 replacing a separate PX4 external embedded subsystem. The kimχ micro with the drone-
 control add-on board is an all-in-one embedded drone and rover control system.
 
+The kimχ micro with the drone-control add-on is an [i.MX8M Mini](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8m-mini-arm-cortex-a53-cortex-m4-audio-voice-video:i.MX8MMINI) Linux system with a 
+32mm x 65mm x 10mm form factor.
+
 ![drone control](https://teledatics.com/drone-control/images/drone-control-front.jpg)
 
 ![drone control](https://teledatics.com/drone-control/images/drone-control-back.jpg)
