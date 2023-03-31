@@ -10,7 +10,7 @@ versitility for many different applications.
 
 This is a hardware add-on 'lid' for the kimχ micro that adds drone control hardware
 replacing a separate PX4 external embedded subsystem. The kimχ micro with the drone-
-control add-on board is an all-in-one embedded drone and reover control system.
+control add-on board is an all-in-one embedded drone and rover control system.
 
 ## Work In Progress
 
