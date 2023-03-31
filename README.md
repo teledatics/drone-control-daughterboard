@@ -32,8 +32,7 @@ control add-on board is an all-in-one embedded drone and rover control system.
 Stay tuned for updates to both the hardware and software as we add features and port
 PX4 Autopilot to the i.MX8M Mini on-board embedded ARM m4 core
 
-Please see out Yocto github to build a Linux OS for the kimχ micro with drone-control 
-daughterboard
+Please see our Drone Control Yocto github repository to build a Linux OS for the kimχ 
+micro with drone-control daughterboard
 
 [Drone Control Yocto](https://github.com/teledatics/drone-control-yocto)
-
