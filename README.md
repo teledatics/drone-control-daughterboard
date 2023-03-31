@@ -1,11 +1,4 @@
-# kimχ micro
-
-kimχ micro is a small and spicy open hardware embedded SBC that offers tons of
-versitility for many different applications.
-
-![kimchi micro](https://labs.groupgets.com/kimchi-micro/images/kimchi-front.jpg)
-
-# Drone Control Daughterboard Expansion
+# Drone Control
 
 This is a hardware add-on 'lid' for the kimχ micro that adds drone control hardware
 replacing a separate PX4 external embedded subsystem. The kimχ micro with the drone-
@@ -14,6 +7,15 @@ control add-on board is an all-in-one embedded drone and rover control system.
 ![drone control](https://teledatics.com/drone-control/images/drone-control-front.jpg)
 
 ![drone control](https://teledatics.com/drone-control/images/drone-control-back.jpg)
+
+## kimχ micro
+
+kimχ micro is a small and spicy open hardware embedded SBC that offers tons of
+versitility for many different applications.
+
+[kimχ micro](https://github.com/groupgets/kimchi-micro)
+
+![kimchi micro](https://labs.groupgets.com/kimchi-micro/images/kimchi-front.jpg)
 
 ## Features
 
